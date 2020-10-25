@@ -18,7 +18,7 @@ L MCU_ST_STM32F0:STM32F072CBTx U2
 U 1 1 5F94976A
 P 18950 5550
 F 0 "U2" H 18300 4050 50  0000 C CNN
-F 1 "STM32F072CBTx" H 18350 3950 50  0000 C CNN
+F 1 "STM32F072CBT6" H 18350 3950 50  0000 C CNN
 F 2 "Package_QFP:LQFP-48_7x7mm_P0.5mm" H 18350 4150 50  0001 R CNN
 F 3 "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00090510.pdf" H 18950 5550 50  0001 C CNN
 	1    18950 5550
@@ -2545,7 +2545,7 @@ U 1 1 5FC2DEBA
 P 9100 13600
 F 0 "MX39" H 9182 13824 60  0000 C CNN
 F 1 "MX-LED" H 9182 13750 20  0000 C CNN
-F 2 "MX_Only:MXOnly-1.25U" H 8475 13575 60  0001 C CNN
+F 2 "MX_Only:MXOnly-1.25U-FLIPPED" H 8475 13575 60  0001 C CNN
 F 3 "" H 8475 13575 60  0001 C CNN
 	1    9100 13600
 	1    0    0    -1  
@@ -3137,4 +3137,59 @@ Wire Wire Line
 Connection ~ 9450 13300
 Wire Wire Line
 	9450 13300 9750 13300
+Wire Wire Line
+	13250 16550 13500 16550
+Wire Wire Line
+	13500 16550 13500 15050
+Connection ~ 13500 15050
+Text GLabel 19550 5750 2    50   Input ~ 0
+Col16
+Text GLabel 19550 5650 2    50   Input ~ 0
+Col17
+Text GLabel 19550 5850 2    50   Input ~ 0
+Col15
+Text GLabel 19550 6050 2    50   Input ~ 0
+Col13
+Text GLabel 19550 5950 2    50   Input ~ 0
+Col14
+Text GLabel 18250 5350 0    50   Input ~ 0
+Col12
+Text GLabel 18250 5450 0    50   Input ~ 0
+Col11
+Text GLabel 18250 5550 0    50   Input ~ 0
+Col10
+Text GLabel 18250 6350 0    50   Input ~ 0
+Col9
+Text GLabel 18250 6450 0    50   Input ~ 0
+Col8
+Text GLabel 18250 6250 0    50   Input ~ 0
+Row1
+Text GLabel 18250 6150 0    50   Input ~ 0
+Col0
+NoConn ~ 19550 6650
+NoConn ~ 19550 6750
+Text GLabel 18250 6650 0    50   Input ~ 0
+Col7
+Text GLabel 18250 6750 0    50   Input ~ 0
+Col6
+Text GLabel 18250 6850 0    50   Input ~ 0
+Col5
+Text GLabel 19550 5350 2    50   Input ~ 0
+Col4
+Text GLabel 18250 5850 0    50   Input ~ 0
+Col1
+Text GLabel 19550 5550 2    50   Input ~ 0
+Col2
+Text GLabel 19550 5450 2    50   Input ~ 0
+Col3
+Text GLabel 19550 6150 2    50   Input ~ 0
+Row3
+Text GLabel 19550 6250 2    50   Input ~ 0
+Row4
+Text GLabel 18250 5950 0    50   Input ~ 0
+Row0
+Text GLabel 19550 6350 2    50   Input ~ 0
+Row2
+Text GLabel 18250 6550 0    50   Input ~ 0
+CapsLED
 $EndSCHEMATC
