@@ -432,7 +432,7 @@ U 1 1 5F98ECF4
 P 14650 2950
 F 0 "SW1" V 14696 2902 50  0000 R CNN
 F 1 "SW_Push" V 14605 2902 50  0000 R CNN
-F 2 "acheron_Hardware:K2-1187SQ-A4SW-06" H 14650 3150 50  0001 C CNN
+F 2 "random-keyboard-parts:SKQG-1155865" H 14650 3150 50  0001 C CNN
 F 3 "~" H 14650 3150 50  0001 C CNN
 	1    14650 2950
 	0    -1   -1   0   
@@ -3176,7 +3176,7 @@ Text GLabel 18250 6850 0    50   Input ~ 0
 Col5
 Text GLabel 19550 5350 2    50   Input ~ 0
 Col4
-Text GLabel 18250 5950 0    50   Input ~ 0
+Text GLabel 18250 5850 0    50   Input ~ 0
 Col1
 Text GLabel 19550 5550 2    50   Input ~ 0
 Col2
@@ -3186,7 +3186,7 @@ Text GLabel 19550 6150 2    50   Input ~ 0
 Row3
 Text GLabel 19550 6250 2    50   Input ~ 0
 Row4
-Text GLabel 18250 6050 0    50   Input ~ 0
+Text GLabel 18250 5950 0    50   Input ~ 0
 Row0
 Text GLabel 19550 6350 2    50   Input ~ 0
 Row2
