@@ -1,4 +1,4 @@
-19111370075892124
+19096930449173417
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -83229,62 +83229,6 @@ varistor SIOV
 0
 2
 2
-acheron_Hardware
-3313J
-
-
-0
-3
-3
-acheron_Hardware
-9774010243
-SMT steel spacer, M2 internal thread
-
-0
-2
-1
-acheron_Hardware
-9774030243R
-SMT steel spacer, M2 internal thread
-
-0
-2
-1
-acheron_Hardware
-K2-1187SQ-A4SW-06
-ALPS 5.2mm Square Low-profile Type (Surface Mount) SKQG Series, Without stem, http://www.alps.com/prod/info/E/HTML/Tact/SurfaceMount/SKQG/SKQGAEE010.html
-SPST Button Switch
-0
-4
-2
-acheron_Hardware
-KEYSTONE-3030
-
-
-0
-3
-2
-acheron_Hardware
-MDBT40-256RV3
-8-Lead Plastic Small Outline (SN) - Narrow, 3.90 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)
-SOIC 1.27
-0
-42
-38
-acheron_Hardware
-MouseBite_IPC7351
-
-
-0
-0
-0
-acheron_Hardware
-bluePill
-
-
-0
-50
-49
 board_logos
 1u-switch-cutout
 
@@ -83383,6 +83327,13 @@ prototype
 0
 0
 0
+footprints-and-logos
+K2-1187SQ-A4SW-06
+ALPS 5.2mm Square Low-profile Type (Surface Mount) SKQG Series, Without stem, http://www.alps.com/prod/info/E/HTML/Tact/SurfaceMount/SKQG/SKQGAEE010.html
+SPST Button Switch
+0
+4
+2
 random-keyboard-parts
 D_SOD-123-Pretty
 SOD-123
